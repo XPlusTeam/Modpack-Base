@@ -1,0 +1,78 @@
+#update 20210606：修正了部分标题缺字的问题，移除了部分奇怪的标题
+#update 20210728：某人又闲的难受来加标题了(
+#update 20211001：国庆放假又来加标题了
+#部分标语来自PCL2回声洞功能
+#模式 
+#0为从https://v1.hitokoto.cn获取
+#1为取title列表
+#2两者随机
+mode: 1
+title:
+#标题列表，mode不为1可缺省
+#=====================================================
+  - "Failed to load the random title. Please check title.yml !"
+  - "Hello, herobrine!     ——PCL2回声洞"
+  - "锟斤烤锟斤烤锟斤烤锟斤烤锟斤烤锟斤烤锟斤烤"
+  - "烫烫烫烫烫烫烫烫烫屯屯屯屯屯屯屯屯屯屯屯屯"
+  - "游戏1小时，看云59分     ——PCL2回声洞"
+  - "你知道吗:Minecraft 1.15.2以后又加入了一个隐藏成就!     ——PCL2回声洞"
+  - "发出咕咕咕的声音     ——Wudji"
+  - "爆炸就是艺术, 当量就是正义"
+  - "你可以试试点右边的叉号~"
+  - "Also try Alt+F4!"
+  - "标题能带来灵感"
+  - "%title%"
+  - "12345是个渣密码！     ——《闪烁标语》"
+  - "已修复1%的漏洞！     ——《闪烁标语》"
+  - "害怕那大大的黑蝙蝠！     ——《闪烁标语》"
+  - "这是幻象！你在掩饰什么？     ——《闪烁标语》"
+  - "给力的游戏设计就在那儿！     ——《闪烁标语》"
+  - "别喂鹦鹉吃巧克力！     ——《闪烁标语》"
+  - "这可能不是很明显，但狐狸不是玩家。     ——《闪烁标语》"
+  - "由XPlus 2.0整合包提供：讨厌的Bug     ——《闪烁标语》"
+  - "这个标题永远不会显示在标题栏上，是不是很神奇呢？     ——《闪烁标语》"
+  - "没有圆的环境！     ——《闪烁标语》"
+  - "1.16.4和1.16.5版本互通!"
+  - "该更新整合包了"
+  - "Since 1573"
+  - "这真的是XPlus整合包吗?"
+  - "我的梦想是天天咕咕咕(逃"
+  - "这真的是XPlus整合包吗?"
+  - "It's a feature! NOT a bug!"
+#=====================================================
+  - "那双紧握不放的手…抓住的是希望…亦或是绝望…     ———原创"
+  - "我们仅仅只是生存，渐渐的正在失去一切，被侮辱与谎言充斥，而我们仍旧毫无声息地站在那里   —— Do As Infinity《深い森》"
+  - "只要我还在别人心里，我就还活着   —— 原创"
+  - "老当益壮，宁移白首之心？穷且益坚，不坠青云之志。     ——《滕王阁序》"
+  - "小鸟......是无法追上飞龙的     ——佚名"
+  - "这个世界上，做恶人，需要凶狠狡猾；做好人，需要比恶人更凶狠更狡猾     ——《万国志》"
+  - "Hope I get the chance to travel the world, but I don't have any plans     ——Avicii 《Wake Me Up》"
+  - "没有调查就没有发言权     ——毛泽东"
+  - "我们彷徨着，无论在哪儿，生活还将继续。再重复，即使无路可走，也要继续前进，生活还将继续   —— Do As Infinity《深い森》"
+  - "又有谁会注意标题栏呢(     ——无法加载作者!"
+  - "其实，雨并不公道，因为下落在一个没有公道的世界上    ——《骆驼祥子》"
+  - "愿出一切曾经拥有，只为赌一回     ——《狐妖小红娘》"
+  - "If I'm really a winner , where do these demons come from?     ——《饥饿游戏》"
+  - "英特纳雄耐尔就一定要实现    ——《国际歌》 "
+  - "世事变幻无常，而近乎永恒不变者，唯你我头上的同一片星空     ——《万国志》"
+  - "All this time I was finding myself, and I didn't know I was lost...     ——Avicii 《Wake Me Up》"
+  - "不知彼此来世相逢，是否还能记得我是谁     ——《狐妖小红娘》"
+  - "I can't tell where the journey will end, but I know where to start     ——Avicii 《Wake Me Up》"
+  - "If you can fly don't stop at the sky, cause there's footprints on the moon — it was you.     ——Owl City《The Yacht Club》"
+  - "I tried carrying the weight of the world, but I only have two hands     ——Avicii 《Wake Me Up》"
+  - "如果温柔是罪，那就只能用拳头来洗清我们犯下的罪孽     ——《镇魂街》"
+  - "你眼中倒映的星河烂漫，是不曾见过的世外梦幻     ——《狐妖小红娘》"
+  - "When all eyes are on you, you will know what to do     ——Tristam / Braken《Frame of Mind》"
+  - "一同经历过的万千时光，不及你与他初见的模样     ——《狐妖小红娘》"
+  - "将这弱小的自己，在轮回之中藏匿抹杀，想要为你变强大     ——《狐妖小红娘》"
+  - "Before you go and walk away, you better know where you're going     ——Vicetone《Nevada》"
+#=====================================================
+prefix:
+#The value of %prefix%,%version% for Minecraft version
+  - "XPlus 2.0 for Minecraft %version%"
+#=====================================================
+format: "%prefix%  |  %title%"
+#=====================================================
+#Variables:
+#%prefix%,%title%,%date%
+dateformat: "yyyy年MM月dd日 HH:mm:ss"

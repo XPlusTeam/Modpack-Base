@@ -1,0 +1,9 @@
+{
+  "choices": {
+    "XPlus": {
+      "choice": "optifine",
+      "type": "DEFINED"
+    }
+  },
+  "disabled": false
+}

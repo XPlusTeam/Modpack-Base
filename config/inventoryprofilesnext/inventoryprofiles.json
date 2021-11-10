@@ -1,0 +1,12 @@
+{
+  "ModSettings": {
+    "enable_auto_refill": false,
+    "refill_armor": false,
+    "refill_before_tool_break": false
+  },
+  "GuiSettings": {
+    "show_continuous_crafting_checkbox": false,
+    "continuous_crafting_checkbox_value": "UNCHECKED",
+    "continuous_crafting_saved_value": false
+  }
+}

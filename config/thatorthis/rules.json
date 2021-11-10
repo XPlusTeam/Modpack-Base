@@ -1,0 +1,27 @@
+{
+  // NOTE: ThatOrThis enables Gson's "lenient" mode, meaning that comments, etc. are accepted
+  // But it DOES NOT SUPPORT JSON5! This example file is named ".json5" only for making IDE happy
+
+  // "rules.json" defines different "rules" for ThatOrThis and user to choose mods from
+  // `rules` node is a list of rule objects, each corresponding to a slot on the choice screen
+  "rules": [
+    {
+      "id": "XPlus",
+      "type": "DEFINED",
+      "caption": "高清修复或钠: %s",
+      "tooltip": "高清修复模式:支持光影，PBR材质等 钠模式:优化更好",
+      "options": [
+        {
+          "id": "optifine",
+          "caption": "高清修复",
+          "directories": [ "optifabric" ]
+        },
+        {
+          "id": "sodium",
+          "caption": "钠",
+          "directories": [ "sodium" ]
+        }
+      ]
+    }
+  ]
+}
